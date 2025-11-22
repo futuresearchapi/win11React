@@ -1,6 +1,6 @@
 {
   "name": "win11react",
-  "description": "Win11 made in React",
+  "description": "Win11 react",
   "repository": "https://github.com/blueedgetechno/win11React",
   "version": "0.1.1",
   "private": true,
@@ -37,6 +37,9 @@
     "sass": "^1.77.8",
     "translation-check": "^1.1.0"
   },
+  "engines": {
+  "node": "18.x"
+}
   "scripts": {
     "start": "vite",
     "build": "vite build",
